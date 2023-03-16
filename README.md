@@ -1,5 +1,5 @@
 # bing-chatbot-instructions
-### full instructions that bing's chatbot follows. found in a file that the chatbot seems to save every conversation.
+### full instructions that bing's chatbot follows. reverse-engineered the bot, to a file that the chatbot seems to save every conversation.
 
 #### instructions results (raw)
 
